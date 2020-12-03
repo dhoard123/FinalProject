@@ -1,0 +1,114 @@
+﻿image_name,patient_id,sex,age_approx,anatom_site_general_challenge,diagnosis,benign_malignant,target
+ISIC_0015719,IP_3075186,female,45,upper extremity,unknown,benign,0
+ISIC_0052212,IP_2842074,female,50,lower extremity,nevus,benign,0
+ISIC_0068279,IP_6890425,female,45,head/neck,unknown,benign,0
+ISIC_0074268,IP_8723313,female,55,upper extremity,unknown,benign,0
+ISIC_0074311,IP_2950485,female,40,lower extremity,unknown,benign,0
+ISIC_0074542,IP_4698288,male,25,lower extremity,unknown,benign,0
+ISIC_0075663,IP_6017204,female,35,torso,unknown,benign,0
+ISIC_0075914,IP_7622888,male,30,torso,unknown,benign,0
+ISIC_0076262,IP_5075533,female,50,lower extremity,unknown,benign,0
+ISIC_0076545,IP_9802602,male,55,upper extremity,unknown,benign,0
+ISIC_0076742,IP_2318163,male,75,upper extremity,unknown,benign,0
+ISIC_0076995,IP_2235340,female,55,torso,nevus,benign,0
+ISIC_0077472,IP_3691360,female,40,torso,unknown,benign,0
+ISIC_0077735,IP_1109756,male,70,torso,unknown,benign,0
+ISIC_0078703,IP_7279968,male,45,torso,unknown,benign,0
+ISIC_0078712,IP_2189124,male,40,lower extremity,unknown,benign,0
+ISIC_0079038,IP_5295861,male,70,torso,unknown,benign,0
+ISIC_0080512,IP_1870306,male,75,torso,unknown,benign,0
+ISIC_0080752,IP_2613684,male,50,torso,unknown,benign,0
+ISIC_0080817,IP_7318404,male,50,lower extremity,unknown,benign,0
+ISIC_0081956,IP_2010919,female,50,upper extremity,unknown,benign,0
+ISIC_0082348,IP_7684360,male,55,torso,unknown,benign,0
+ISIC_0082543,IP_9463965,female,30,torso,unknown,benign,0
+ISIC_0082934,IP_6572129,male,65,torso,unknown,benign,0
+ISIC_0083035,IP_5805281,male,50,torso,unknown,benign,0
+ISIC_0084086,IP_4023055,male,60,lower extremity,nevus,benign,0
+ISIC_0084270,IP_2961528,male,40,lower extremity,nevus,benign,0
+ISIC_0084395,IP_0175539,female,45,torso,nevus,benign,0
+ISIC_0085172,IP_1705144,female,50,lower extremity,unknown,benign,0
+ISIC_0085718,IP_1264754,female,65,torso,unknown,benign,0
+ISIC_0085902,IP_3658607,male,45,torso,unknown,benign,0
+ISIC_0086349,IP_2825529,female,55,torso,nevus,benign,0
+ISIC_0086462,IP_3200260,female,30,,unknown,benign,0
+ISIC_0086632,IP_2114130,male,40,torso,unknown,benign,0
+ISIC_0086709,IP_4109313,male,30,torso,unknown,benign,0
+ISIC_0087290,IP_4050705,female,40,torso,unknown,benign,0
+ISIC_0087297,IP_5389392,male,55,torso,unknown,benign,0
+ISIC_0088137,IP_5205991,,,lower extremity,unknown,benign,0
+ISIC_0088489,IP_9147454,female,55,torso,unknown,benign,0
+ISIC_0089401,IP_7948039,female,25,torso,unknown,benign,0
+ISIC_0089569,IP_3933152,female,30,torso,nevus,benign,0
+ISIC_0089738,IP_3076695,female,70,torso,nevus,benign,0
+ISIC_0090279,IP_3397861,female,65,torso,unknown,benign,0
+ISIC_0091016,IP_4042098,male,40,torso,nevus,benign,0
+ISIC_0091559,IP_2153088,female,30,torso,unknown,benign,0
+ISIC_0091996,IP_1273286,male,50,lower extremity,nevus,benign,0
+ISIC_0092726,IP_7279968,male,45,head/neck,unknown,benign,0
+ISIC_0092870,IP_8233849,male,55,torso,unknown,benign,0
+ISIC_0094701,IP_4042098,male,40,lower extremity,nevus,benign,0
+ISIC_0094755,IP_0135517,female,50,lower extremity,unknown,benign,0
+ISIC_0094775,IP_2318163,male,75,torso,unknown,benign,0
+ISIC_0095805,IP_1645936,female,65,torso,unknown,benign,0
+ISIC_0096201,IP_9906695,female,45,torso,nevus,benign,0
+ISIC_0096227,IP_3562983,male,35,torso,unknown,benign,0
+ISIC_0096328,IP_9435698,female,75,torso,unknown,benign,0
+ISIC_0097499,IP_0414408,male,50,lower extremity,unknown,benign,0
+ISIC_0097500,IP_9147454,female,55,upper extremity,unknown,benign,0
+ISIC_0097997,IP_8442277,female,50,lower extremity,unknown,benign,0
+ISIC_0098198,IP_0063457,male,40,torso,nevus,benign,0
+ISIC_0098784,IP_1587853,female,70,lower extremity,unknown,benign,0
+ISIC_0099474,IP_3057277,male,45,,unknown,benign,0
+ISIC_0099546,IP_1139701,female,45,torso,unknown,benign,0
+ISIC_0100550,IP_4525077,female,65,upper extremity,unknown,benign,0
+ISIC_0103298,IP_0097257,female,65,torso,unknown,benign,0
+ISIC_0105145,IP_2170331,female,55,lower extremity,nevus,benign,0
+ISIC_0106091,IP_4050705,female,40,torso,unknown,benign,0
+ISIC_0109415,IP_6342052,male,65,torso,unknown,benign,0
+ISIC_0109568,IP_0825081,male,80,lower extremity,unknown,benign,0
+ISIC_0109703,IP_8663649,male,45,upper extremity,unknown,benign,0
+ISIC_0109869,IP_8171635,male,70,torso,unknown,benign,0
+ISIC_0112097,IP_5889408,female,45,torso,unknown,benign,0
+ISIC_0112444,IP_9147454,female,55,torso,unknown,benign,0
+ISIC_0112884,IP_3927229,female,40,upper extremity,unknown,benign,0
+ISIC_0113820,IP_0660290,male,60,lower extremity,unknown,benign,0
+ISIC_0114225,IP_0825081,male,80,lower extremity,unknown,benign,0
+ISIC_0120729,IP_7836372,male,65,lower extremity,unknown,benign,0
+ISIC_0124849,IP_0078294,male,60,upper extremity,unknown,benign,0
+ISIC_0125706,IP_4096093,female,60,torso,unknown,benign,0
+ISIC_0134357,IP_0660290,male,60,torso,unknown,benign,0
+ISIC_0136526,IP_8663649,male,45,torso,unknown,benign,0
+ISIC_0140339,IP_6342052,male,65,torso,unknown,benign,0
+ISIC_0147642,IP_6887429,male,45,torso,nevus,benign,0
+ISIC_0147817,IP_7397472,female,60,torso,nevus,benign,0
+ISIC_0147869,IP_9751397,female,35,torso,unknown,benign,0
+ISIC_0148465,IP_1517386,male,40,head/neck,unknown,benign,0
+ISIC_0148643,IP_5776149,female,70,torso,nevus,benign,0
+ISIC_0148677,IP_8247808,female,35,lower extremity,unknown,benign,0
+ISIC_0148751,IP_5629228,female,40,upper extremity,unknown,benign,0
+ISIC_0148783,IP_4488328,male,40,torso,unknown,benign,0
+ISIC_0149527,IP_7252102,male,35,upper extremity,unknown,benign,0
+ISIC_0149568,IP_0962375,female,55,upper extremity,melanoma,malignant,1
+ISIC_0149698,IP_3782995,female,25,torso,unknown,benign,0
+ISIC_0149918,IP_9718058,male,50,torso,unknown,benign,0
+ISIC_0150363,IP_3755407,male,50,torso,unknown,benign,0
+ISIC_0150975,IP_9212266,female,50,lower extremity,unknown,benign,0
+ISIC_0151200,IP_5549010,female,30,torso,unknown,benign,0
+ISIC_0152307,IP_6977878,male,35,torso,unknown,benign,0
+ISIC_0152823,IP_6885799,female,45,lower extremity,unknown,benign,0
+ISIC_0153265,IP_2838638,female,40,torso,unknown,benign,0
+ISIC_0153549,IP_3203470,female,45,lower extremity,unknown,benign,0
+ISIC_0153589,IP_8039381,male,65,lower extremity,unknown,benign,0
+ISIC_0153911,IP_4366959,female,35,torso,unknown,benign,0
+ISIC_0153932,IP_2426108,female,50,upper extremity,unknown,benign,0
+ISIC_0154032,IP_4837579,female,30,lower extremity,nevus,benign,0
+ISIC_0154253,IP_2501903,male,30,torso,unknown,benign,0
+ISIC_0154338,IP_5768092,female,60,upper extremity,nevus,benign,0
+ISIC_0154813,IP_1962690,female,50,torso,unknown,benign,0
+ISIC_0154870,IP_6808872,male,30,torso,unknown,benign,0
+ISIC_0188432,IP_0135517,female,50,upper extremity,melanoma,malignant,1
+ISIC_0207268,IP_7735373,male,55,torso,melanoma,malignant,1
+ISIC_0232101,IP_8349964,male,65,torso,melanoma,malignant,1
+ISIC_0247330,IP_3232631,female,65,lower extremity,melanoma,malignant,1
+ISIC_0250839,IP_6234053,male,75,head/neck,melanoma,malignant,1
